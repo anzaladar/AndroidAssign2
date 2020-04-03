@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">Username</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Confirm">Confirm Password</string>
+    <string name="Month">Month</string>
+    <string name="Day">Day</string>
+    <string name="Year">Year</string>
+    <string name="btnText">Get Started</string>
+    <string name="footer">Terms and Conditions</string>
+    <string name="upload">Upload Cover Picture</string>
+</resources>
